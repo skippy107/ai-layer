@@ -1,0 +1,6 @@
+__pycache__
+.env
+.env-*
+.pytest_cache/
+venv/
+Pulumi.*.yaml
